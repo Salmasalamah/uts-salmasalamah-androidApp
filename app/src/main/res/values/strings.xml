@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Nama Aplikasi -->
+    <string name="app_name">30 Hari Sehat</string>
+
+    <!-- Logo Description -->
+    <string name="logo_description">Logo Aplikasi</string>
+
+    <!-- Judul Halaman -->
+    <string name="login_title">Login 30 Hari Sehat</string>
+    <string name="judul_list_chat">Daftar Chat Tentang Diet Sehat</string>
+
+    <!-- Hint EditText -->
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+
+    <!-- Tombol -->
+    <string name="login_button">Login</string>
+    <string name="register_button">Daftar Akun</string>
+
+    <!-- Validasi -->
+    <string name="email_empty">Email tidak boleh kosong</string>
+    <string name="invalid_email">Format email tidak valid</string>
+    <string name="password_empty">Password tidak boleh kosong</string>
+    <string name="login_success">Login berhasil</string>
+    <string name="registration_success">Registrasi berhasil</string>
+    <string name="nama_empty">Nama tidak boleh kosong</string>
+
+    <!-- Label Makanan -->
+    <string name="nama_makanan">Nama Makanan</string>
+    <string name="manfaat_makanan">Manfaat Makanan</string>
+    <string name="makanan_image">Gambar Makanan</string>
+
+    <!-- Daftar 30 Makanan Sehat -->
+    <string name="oatmeal_buah_madu">Oatmeal Buah Madu</string>
+    <string name="sup_ayam_bening">Sup Ayam Bening</string>
+    <string name="nasi_merah_ayam_panggang">Nasi Merah Ayam Panggang</string>
+    <string name="smoothie_pisang_selai">Smoothie Pisang Selai</string>
+    <string name="tumis_brokoli_wortel">Tumis Brokoli Wortel</string>
+    <string name="pepes_tahu">Pepes Tahu</string>
+    <string name="salad_tuna">Salad Tuna</string>
+    <string name="granola_yogurt">Granola Yogurt</string>
+    <string name="tahu_kukus_sayur">Tahu Kukus Sayur</string>
+    <string name="telur_dadar_sayur">Telur Dadar Sayur</string>
+    <string name="sup_jagung_manis">Sup Jagung Manis</string>
+    <string name="tempe_panggang">Tempe Panggang</string>
+    <string name="sup_kacang_merah">Sup Kacang Merah</string>
+    <string name="sandwich_alpukat">Sandwich Alpukat</string>
+    <string name="bubur_ayam_sehat">Bubur Ayam Sehat</string>
+    <string name="pancake_oat_madu">Pancake Oat Madu</string>
+    <string name="sup_tomat_roti">Sup Tomat dan Roti</string>
+    <string name="salmon_panggang_lemon">Salmon Panggang Lemon</string>
+    <string name="tumis_kangkung_tahu">Tumis Kangkung Tahu</string>
+    <string name="nasi_jagung_lauk">Nasi Jagung Lauk</string>
+    <string name="sayur_asem_sehat">Sayur Asem Sehat</string>
+    <string name="roti_gandum_telur">Roti Gandum Telur</string>
+    <string name="sup_wortel_labu">Sup Wortel Labu</string>
+    <string name="chicken_wrap_sehat">Chicken Wrap Sehat</string>
+    <string name="nasi_merah_telur_sayur">Nasi Merah Telur Sayur</string>
+    <string name="smoothie_stroberi_chia">Smoothie Stroberi Chia</string>
+    <string name="salad_tahu">Salad Tahu</string>
+    <string name="capcay_rebus">Capcay Rebus</string>
+    <string name="oatmeal_asin">Oatmeal Asin</string>
+    <string name="sate_tempe_kukus">Sate Tempe Kukus</string>
+</resources>
